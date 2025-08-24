@@ -1,11 +1,29 @@
-### ¡Hola! 👋 Soy Fede
+## Hi there! 👋 I'm Federico
+I'm a data scientist with a background in biology, currently expanding my expertise in machine learning and graph theory. Here's a bit about my journey and what I'm working on:
 
-Soy biólogo y me he convertido en un entusiasta de los datos.
+### **🔬 Current Role:**
 
-🔭 Actualmente trabajo en el **Banco Nacional de Datos Genéticos**, un organismo gubernamental que trabaja en la recuperación de la identidad de personas nacidas en cautiverio durante la última dictadura cívico-militar en Argentina.  
-🌱 Estoy cursando la **Maestría en Explotación de Datos y Descubrimiento del Conocimiento** en la **Universidad de Buenos Aires**.  
-👯 Busco colaborar en proyectos desafiantes donde pueda aplicar la experiencia adquirida en los últimos años.  
-🤔 Me interesa aprender a implementar modelos escalables y seguir las mejores prácticas en aprendizaje automático basado en la nube.  
-💬 Me gusta comunicar con claridad: saber qué hay que hacer, con qué herramientas y cómo llevarlo a cabo. Creo en los equipos que combinan autonomía con una dirección clara.  
-📫 Cómo contactarme: fedepicado@gmail.com  
-⚡ Dato curioso: A principios de 2020, como no teníamos laboratorio (recuerdos pandémicos), cursé una materia llamada *Toma de decisiones*. Fue mi primer acercamiento a la programación en R y desde entonces no pude parar!
+Data Analyst at the National Genetic Data Bank, a government agency dedicated where the primary mission of reestablishing the biological identity of children born in captivity or abducted alongside their parents during the last Argentine civic-military dictatorship.
+
+### 📚 **Learning:**
+
+Advanced techniques in machine learning, statistical modeling, and scalable cloud-based implementations.
+Best practices in data engineering, ETL pipeline automation, and interactive data visualization.
+
+### 🎓 **Education:**
+* **Master's Degree in Data Science** – School of Exact and Natural Sciences & School of Engineering, Universidad de Buenos Aires (UBA) (Expected: 12/2025)
+* **Bachelor of Biological Sciences** – School of Exact and Natural Sciences, Universidad de Buenos Aires (UBA) (2015–2022)
+
+### **🤝 Collaboration:**
+
+Looking to collaborate on challenging projects where I can apply rigorous analytical methodologies to solve complex problems.
+Passionate about clear communication: understanding what needs to be done, which tools to use, and how to execute effectively.
+
+### **📫 **How to reach me:**
+
+Email: fedepicado@gmail.com<br>
+You can also find me on [LinkedIn](www.linkedin.com/in/federico-picado)
+
+### **🚀 Projects:**
+
+Below are several repositories showcasing data projects I've worked on professionally, academically, and in my own time!
