@@ -14,16 +14,16 @@ Best practices in data engineering, ETL pipeline automation, and interactive dat
 * **Master's Degree in Data Science** – School of Exact and Natural Sciences & School of Engineering, Universidad de Buenos Aires (UBA) (Expected: 12/2025)
 * **Bachelor of Biological Sciences** – School of Exact and Natural Sciences, Universidad de Buenos Aires (UBA) (2015–2022)
 
-### **🤝 Collaboration:**
+### 🤝 **Collaboration:**
 
 Looking to collaborate on challenging projects where I can apply rigorous analytical methodologies to solve complex problems.
 Passionate about clear communication: understanding what needs to be done, which tools to use, and how to execute effectively.
 
-### **📫 **How to reach me:**
+### 📫 **How to reach me:**
 
 Email: fedepicado@gmail.com<br>
 You can also find me on [LinkedIn](www.linkedin.com/in/federico-picado)
 
-### **🚀 Projects:**
+### 🚀 **Projects:**
 
 Below are several repositories showcasing data projects I've worked on professionally, academically, and in my own time!
