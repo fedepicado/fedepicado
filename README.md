@@ -11,8 +11,8 @@ Advanced techniques in machine learning, statistical modeling, and scalable clou
 Best practices in data engineering, ETL pipeline automation, and interactive data visualization.
 
 ### 🎓 **Education:**
-* **Master's Degree in Data Science** – School of Exact and Natural Sciences & School of Engineering, Universidad de Buenos Aires (UBA) (Expected: 12/2025)
-* **Bachelor of Biological Sciences** – School of Exact and Natural Sciences, Universidad de Buenos Aires (UBA) (2015–2022)
+* **Master's Degree in Data Science** – School of Exact and Natural Sciences & School of Engineering, University of Buenos Aires (UBA) (Expected: 12/2025)
+* **Bachelor of Biological Sciences** – School of Exact and Natural Sciences, University of Buenos Aires (UBA) (2015–2022)
 
 ### 🤝 **Collaboration:**
 
